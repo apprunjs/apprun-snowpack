@@ -13,7 +13,7 @@ module.exports = {
     installTypes: true,
   },
   devOptions: {
-    /* ... */
+    'out': 'docs'
   },
   buildOptions: {
     /* ... */
