@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "apprun": "https://cdn.skypack.dev/apprun@v2.26.0-FxKiXq2gcoFRmfvZjkjR",
+    "apprun/": "https://cdn.skypack.dev/apprun@v2.26.0-FxKiXq2gcoFRmfvZjkjR/"
+  },
+  "dependencies": {
+    "apprun": "^2.26.0"
+  }
+}

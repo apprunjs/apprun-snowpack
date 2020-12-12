@@ -1,7 +1,10 @@
 ## apprun-snowpack template
 
-* Use _npm start_ to start the dev server
-* Use _npm test_ to run unit tests
-* Use _npm run build_ to build for production
+This is an application built with [AppRun](https://github.com/yysun/apprun) and [Snowpack](https://snowpack.dev).
 
-This is an application built with [AppRun](https://github.com/yysun/apprun).
+Thanks to Snowpack. ** __npm install__ NOT NEEDED**.
+
+* Use _npx snowpack dev_ to start the dev server
+* Use _npx snowpack build_ to build for production
+
+Have fun!

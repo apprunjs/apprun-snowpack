@@ -8,6 +8,6 @@ app.render(document.body, <Layout />);
 
 const element = 'my-app';
 
-new Home().start(element);
 About(element, { route: '#About' });
 Contact(element, { route: '#Contact' });
+new Home().start(element);
